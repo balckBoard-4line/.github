@@ -46,46 +46,50 @@
 
 ## 🧬 서비스 사용 플로우
 <div align="center">
-  <img width="60%" alt="image" src="">
-</div>
 
+![플로우 차트](https://github.com/balckBoard-4line/.github/assets/98332877/1fe3905e-313c-499e-8ca7-cf6a8ea5017e)<!--   <img width="60%" alt="image" src=""> -->
+</div>
 
 <br><br>
 
 ## 🔗 유스케이스 다이어그램
 <div align="center">
-  <img width="60%" alt="image" src="">
+
+![유스케이스](https://github.com/balckBoard-4line/.github/assets/98332877/179cc592-d060-4d09-9206-f4d78bdbcd10)
+<!--   <img width="60%" alt="image" src=""> -->
 </div>
 
 <br><br>
 
 ## 🤖 레파지토리
-Front : Details in [blackBoard-front Repository](https://github.com/balckBoard-4line/balckBoard-front)
-Back : Details in [blackBoard-back Repository](https://github.com/balckBoard-4line/blackBoard-back) 
+Front : Details in [blackBoard-front Repository](https://github.com/balckBoard-4line/balckBoard-front)<br>
+Back : Details in [blackBoard-back Repository](https://github.com/balckBoard-4line/blackBoard-back) (배포와 관련된 사항이 포함되어 있어 현재는 private 입니다)
 
 <br><br>
 
 ## 🦾 주요 기술
 ### ✔️ Front
-* React
-* vscode
-* Netlify
+* <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+* <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+* <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 
 <br>
   
 ### ✔️ Back
-* Java
-* SpringBoot
-* JPA
-* MySQL
-* AWS
+* <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+* <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+* <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white"/>
+* <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+* <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+* <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <br>
 
 ### ✔️ Collaboration
-* Discord
-* Figma
-* Notion
+* <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
+* <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
+* <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+* <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/>
 
 <br><br>
 
@@ -117,10 +121,10 @@ Back : Details in [blackBoard-back Repository](https://github.com/balckBoard-4li
 ## 👻 팀원
 <table>
   <tr> 
-    <td><a href="https://github.com/shimseohyun"><img src="" style="width:150%; height:150%;"></a></td>
-    <td><a href="https://github.com/hooooooni"><img src=""></a></td>
-    <td><a href="https://github.com/dhmr11"><img src=""></a></td>
-    <td><a href="https://github.com/MinseoKangQ"><img src=""></a></td>
+    <td><a href="https://github.com/shimseohyun"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
+    <td><a href="https://github.com/hooooooni"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
+    <td><a href="https://github.com/dhmr11"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
+    <td><a href="https://github.com/MinseoKangQ"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
     <td><a href="https://github.com/Ga-Long"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
     
   </tr>
