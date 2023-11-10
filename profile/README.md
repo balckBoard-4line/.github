@@ -1,6 +1,4 @@
-### 졸업을 축하합니다! 칠판 편지 by 졸축위
-
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=졸업을%20축하합니다!%20칠판편지%20by%20졸축위&fontSize=45&fontAlignY=40&desc=2023%20멋쟁이사자처럼%2011기%204호선톤%20&descAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=졸업을%20축하합니다!%20칠판편지%20by%20졸축위&fontSize=45&fontAlignY=40&desc=2023%20멋쟁이사자처럼%2011기%204호선톤%20&descAlign=80)
 
 <br><br>
 <div align="center">
