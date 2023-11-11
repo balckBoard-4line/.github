@@ -47,6 +47,15 @@
 
 <br><br>
 
+## 👤 와이어 프레임
+<div align="center">
+
+![와이어프레임](https://github.com/balckBoard-4line/.github/assets/98332877/ba9707ee-d088-48a9-82b7-367d2f65a876)
+
+</div>
+
+<br><br>
+
 ## 🧬 서비스 사용 플로우
 <div align="center">
 
@@ -58,15 +67,15 @@
 ## 🔗 유스케이스 다이어그램
 <div align="center">
 
-![유스케이스](https://github.com/balckBoard-4line/.github/assets/98332877/179cc592-d060-4d09-9206-f4d78bdbcd10)
+![유스케이스](https://github.com/balckBoard-4line/.github/assets/98332877/d4eb1858-ac1f-4732-b2ca-9149ac543d0b)
 <!--   <img width="60%" alt="image" src=""> -->
 </div>
 
 <br><br>
 
 ## 🤖 레파지토리
-Front : Details in [blackBoard-front Repository](https://github.com/balckBoard-4line/balckBoard-front)<br>
-Back : Details in [blackBoard-back Repository](https://github.com/balckBoard-4line/blackBoard-back) (배포와 관련된 사항이 포함되어 있어 현재는 private 입니다)
+✨ **Front** : Details in [blackBoard-front Repository](https://github.com/balckBoard-4line/balckBoard-front)<br>
+✨ **Back** : Details in [blackBoard-back Repository](https://github.com/balckBoard-4line/blackBoard-back) (배포와 관련된 사항이 포함되어 있어 현재는 private 입니다)
 
 <br><br>
 
