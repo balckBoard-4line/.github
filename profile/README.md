@@ -107,8 +107,11 @@
 
 ## 👀 실행 화면
 * **Phone** :iphone:
-  <img width="100%" alt="image" src="">  
-  <br>
+![6](https://github.com/balckBoard-4line/.github/assets/98332877/9d228421-a9cd-4347-be7c-ccec0c28b279)
+![7](https://github.com/balckBoard-4line/.github/assets/98332877/2b5b1ab1-090d-4ea3-aa79-8ecb329a3eeb)
+![8](https://github.com/balckBoard-4line/.github/assets/98332877/90f18e66-7bb4-4c61-bba8-d7152a0bfd08)
+
+<br>
 
 <br><br>
 ## 🤝 커밋 룰
