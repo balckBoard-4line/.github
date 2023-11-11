@@ -124,11 +124,11 @@ Back : Details in [blackBoard-back Repository](https://github.com/balckBoard-4li
 ## 👻 팀원
 <table>
   <tr> 
-    <td><a href="https://github.com/shimseohyun"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
-    <td><a href="https://github.com/hooooooni"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
-    <td><a href="https://github.com/dhmr11"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
-    <td><a href="https://github.com/MinseoKangQ"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
-    <td><a href="https://github.com/Ga-Long"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:150%; height:150%;"></a></td>
+    <td><a href="https://github.com/shimseohyun"><img src="https://github.com/balckBoard-4line/.github/assets/100428958/8b4ebcbd-4105-4875-b9d6-751e54d186c6" style="width:100%;"></a></td>
+    <td><a href="https://github.com/hooooooni"><img src="https://github.com/balckBoard-4line/.github/assets/100428958/221fccfe-c872-4d5e-ac58-46d511912922" style="width:100%;"></a></td>
+    <td><a href="https://github.com/dhmr11"><img src="https://github.com/balckBoard-4line/.github/assets/100428958/389e6812-f9eb-46e1-bdc5-fd34f35ede91" style="width:100%;"></a></td>
+    <td><a href="https://github.com/MinseoKangQ"><img src="https://github.com/balckBoard-4line/.github/assets/100428958/04a6f2d5-5cb0-476e-a937-317f57a58da6" style="width:100%;"></a></td>
+    <td><a href="https://github.com/Ga-Long"><img src="https://github.com/balckBoard-4line/.github/assets/100428958/855d3c69-a17e-4b73-b177-0d97b08f1b8b" style="width:100%;"></a></td>
     
   </tr>
   <tr> 
