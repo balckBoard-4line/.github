@@ -75,7 +75,7 @@
 
 ## 🤖 레파지토리
 ✨ **Front** : Details in [blackBoard-front Repository](https://github.com/balckBoard-4line/balckBoard-front)<br>
-✨ **Back** : Details in [blackBoard-back Repository](https://github.com/balckBoard-4line/blackBoard-back) (배포와 관련된 사항이 포함되어 있어 현재는 private 입니다)
+✨ **Back** : Details in [blackBoard-back Repository](https://github.com/balckBoard-4line/blackBoard-back)
 
 <br><br>
 
